@@ -1,4 +1,4 @@
-<a href="#"><img src="https://www.bahamianstudio.com/wp-content/uploads/2020/08/team-designers-working-computer-gif-the-bahamian-studio-branding-graphic-design-flyers-logos-printing-marketing-nassau-bahamas.gif" width="500px" height="400px"/></a>
+<a href="#"><img src="https://www.bahamianstudio.com/wp-content/uploads/2020/08/team-designers-working-computer-gif-the-bahamian-studio-branding-graphic-design-flyers-logos-printing-marketing-nassau-bahamas.gif" width="500px" height="400px" align="center"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh kalithas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
