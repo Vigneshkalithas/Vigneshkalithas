@@ -1,4 +1,4 @@
-<a href="#"><img src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" width="400px" height="300px"/></a>
+<a href="#"><img src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" width="500px" height="450px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh kalithas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
