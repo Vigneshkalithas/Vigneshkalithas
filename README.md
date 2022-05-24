@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://banner2.cleanpng.com/20190719/av/kisspng-software-developer-computer-software-web-developme-web-amp-mobile-app-analytics-platform-for-develo-5d32885dc83d30.2176655015635927978202.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.seekpng.com/png/detail/504-5043467_hire-laravel-developers-transparent-png.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh kalithas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
