@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.kindpng.com/picc/m/42-423656_app-developer-vector-png-transparent-png.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/software-developers-3896190-3239630.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh kalithas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
