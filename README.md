@@ -1,5 +1,5 @@
 <div align="center">
- <a href="#"><img  src="https://www.bahamianstudio.com/wp-content/uploads/2020/08/team-designers-working-computer-gif-the-bahamian-studio-branding-graphic-design-flyers-logos-printing-marketing-nassau-bahamas.gif" width="
+ <a href="#"><img  src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="
   600px" height="400px" /></a>
  </div>
 
