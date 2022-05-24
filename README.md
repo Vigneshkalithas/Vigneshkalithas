@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F14225432-Coder&psig=AOvVaw2UdkrvzLK2w_C0hWTGPDr6&ust=1653451567649000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjW9aKh9_cCFQAAAAAdAAAAABAY" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://banner2.cleanpng.com/20190719/av/kisspng-software-developer-computer-software-web-developme-web-amp-mobile-app-analytics-platform-for-develo-5d32885dc83d30.2176655015635927978202.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh kalithas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
