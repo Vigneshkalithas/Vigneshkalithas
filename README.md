@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Vigneshkalithas/github-readme-activity-graph"><img alt="Vigneshkalithas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vigneshkalithas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
+<a href="https://github.com/Vigneshkalithas/github-readme-activity-graph"><img alt="Vigneshkalithas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true" /> </a>
 
 <br/>
 <br/>
