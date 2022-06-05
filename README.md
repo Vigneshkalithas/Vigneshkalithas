@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://vigneshkalithas.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://developer-portfolio-lake.vercel.app/)**
 
 - 📫 How to reach me **vigneshkalithas@outlook.com**
 
