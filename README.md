@@ -2,7 +2,7 @@
  <a href="#"><img  src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="600px" height="400px" /></a>
  </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh kalithas</h1>
+<h1 align="center">Hi , I'm Vignesh kalithas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
