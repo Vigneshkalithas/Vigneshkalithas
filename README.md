@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Full Stack Developer Course.**
+- 🌱 I’m currently learning **Artificial intelligenc.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
