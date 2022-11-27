@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Artificial intelligenc.**
+- 🌱 I’m currently learning **Artificial intelligence.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
